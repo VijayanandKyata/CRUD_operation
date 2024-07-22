@@ -10,6 +10,17 @@
 [![GitHub license](https://img.shields.io/github/license/codeigniter4/CodeIgniter4)](https://github.com/codeigniter4/CodeIgniter4/blob/develop/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/codeigniter4/CodeIgniter4/pulls)
 <br>
+## OUTPUTS
+Home Page
+![crud1](https://github.com/user-attachments/assets/0c7b69f7-9a20-4e17-8ac2-8f509b71d799)
+
+Add New Employee
+![crud2](https://github.com/user-attachments/assets/9e9e4468-a228-4a36-9ae7-31c0f583d62f)
+Edit Name and Email
+![crud3](https://github.com/user-attachments/assets/76b28f18-a473-4b7c-98ef-0f45081f34b7)
+
+
+
 
 ## What is CodeIgniter?
 
